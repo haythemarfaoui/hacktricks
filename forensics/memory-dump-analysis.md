@@ -4,7 +4,7 @@ Start **searching** for **malware** inside the pcap. Use the **tools** mentioned
 
 ## Bulk Extractor
 
-Thisss tool comes inside kali but you can find it here: [https://github.com/simsong/bulk\_extractor](https://github.com/simsong/bulk_extractor)
+This tool commes inside kali but you can find it here: [https://github.com/simsong/bulk\_extractor](https://github.com/simsong/bulk_extractor)
 
 This tool can scan an image and will **extract pcaps** inside it, **network information\(URLs, domains, IPs, MACs, mails\)** and more **files**. You only have to do:
 
@@ -44,8 +44,4 @@ You can also load the exception and see the decompiled instructions
 Anyway Visual Studio isn't the best tool to perform a analysis in depth of the dump.
 
 You should **open** it using **IDA** or **Radare** to inspection it in **depth**.
-
-
-
-
 
