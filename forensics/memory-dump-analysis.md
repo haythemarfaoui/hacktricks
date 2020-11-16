@@ -4,7 +4,7 @@ Start **searching** for **malware** inside the pcap. Use the **tools** mentioned
 
 ## Bulk Extractor
 
-This tool commes inside kali but you can find it here: [https://github.com/simsong/bulk\_extractor](https://github.com/simsong/bulk_extractor)
+Thisss tool comes inside kali but you can find it here: [https://github.com/simsong/bulk\_extractor](https://github.com/simsong/bulk_extractor)
 
 This tool can scan an image and will **extract pcaps** inside it, **network information\(URLs, domains, IPs, MACs, mails\)** and more **files**. You only have to do:
 
